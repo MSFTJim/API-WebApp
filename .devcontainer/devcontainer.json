@@ -20,7 +20,7 @@
       "yzhang.markdown-all-in-one"
     ],
             
-    
+    "dockerFile": "Dockerfile",
             
     "postCreateCommand": "/bin/bash ./.devcontainer/post-create.sh > ~/post-create.log"
     
