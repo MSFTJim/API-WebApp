@@ -1,6 +1,6 @@
 {
             
-    "forwardPorts": [5000, 5100, 5200],
+    "forwardPorts": [5000, 5001, 5200],
 
     "extensions": [
       "docsmsft.docs-authoring-pack",
