@@ -1,20 +1,40 @@
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.exe
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.deps.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.runtimeconfig.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.runtimeconfig.dev.json
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.dll
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\bin\Debug\netcoreapp3.1\AppAPI.pdb
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.csprojAssemblyReference.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.AssemblyInfoInputs.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.AssemblyInfo.cs
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.csproj.CoreCompileInputs.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.RazorTargetAssemblyInfo.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\staticwebassets\AppAPI.StaticWebAssets.Manifest.cache
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\staticwebassets\AppAPI.StaticWebAssets.xml
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.dll
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.pdb
-C:\Users\jamesvac\OneDrive\SW-Projects\Fun with Tim\Multi-001\AppAPI\obj\Debug\netcoreapp3.1\AppAPI.genruntimeconfig.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.exe
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.deps.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.runtimeconfig.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.runtimeconfig.dev.json
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.dll
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.pdb
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.csprojAssemblyReference.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.AssemblyInfoInputs.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.AssemblyInfo.cs
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.csproj.CoreCompileInputs.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.RazorTargetAssemblyInfo.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/staticwebassets/AppAPI.StaticWebAssets.Manifest.cache
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/staticwebassets/AppAPI.StaticWebAssets.xml
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.dll
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.pdb
+C:/Users/jamesvac/OneDrive/SW-Projects/Fun with Tim/Multi-001/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.genruntimeconfig.cache
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.deps.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.runtimeconfig.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.runtimeconfig.dev.json
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.dll
+/root/workspace/API-WebApp/AppAPI/bin/Debug/netcoreapp3.1/AppAPI.pdb
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.csprojAssemblyReference.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.AssemblyInfoInputs.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.AssemblyInfo.cs
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.csproj.CoreCompileInputs.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.MvcApplicationPartsAssemblyInfo.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.RazorTargetAssemblyInfo.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/staticwebassets/AppAPI.StaticWebAssets.Manifest.cache
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/staticwebassets/AppAPI.StaticWebAssets.xml
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.dll
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.pdb
+/root/workspace/API-WebApp/AppAPI/obj/Debug/netcoreapp3.1/AppAPI.genruntimeconfig.cache

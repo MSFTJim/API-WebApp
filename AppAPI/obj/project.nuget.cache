@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kX9ArhBPUR14JX/DXnHJSVME6xKiT62WTj1LlyxS67jrLbXsy9sBhaIwB6X0q4QdsgiFCbpPyiRUbECNxEWjHA==",
+  "dgSpecHash": "ZL3yjKr06AJrUwIsI9Iq5pEHUHd8MgXmwP3WW2LzmZbgi7DTRZ2WOoh1zdBPqrzPPCJUJIneuiuY/NkpDvCkQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jamesvac\\OneDrive\\SW-Projects\\Fun with Tim\\Multi-001\\AppAPI\\AppAPI.csproj",
+  "projectFilePath": "/root/workspace/API-WebApp/AppAPI/AppAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
