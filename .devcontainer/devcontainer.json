@@ -17,7 +17,8 @@
       "ms-vscode.vscode-node-azure-pack",
       "ms-vsliveshare.vsliveshare",
       "visualstudioexptteam.vscodeintellicode",
-      "yzhang.markdown-all-in-one"
+      "yzhang.markdown-all-in-one",
+      "adrianwilczynski.user-secrets"
     ],
             
     "dockerFile": "Dockerfile",
