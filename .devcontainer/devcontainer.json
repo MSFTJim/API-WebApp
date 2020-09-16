@@ -1,4 +1,5 @@
 {
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:bionic",            
             
     "forwardPorts": [5000, 5001, 5200],
 
@@ -21,7 +22,7 @@
       "adrianwilczynski.user-secrets"
     ],
             
-    "dockerFile": "Dockerfile",
+    ##  "dockerFile": "Dockerfile",
             
     "postCreateCommand": "/bin/bash ./.devcontainer/post-create.sh > ~/post-create.log"
     
